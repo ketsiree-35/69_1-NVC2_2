@@ -58,17 +58,7 @@ student10 = {
     "age": "17",
     "phone": "0876495274"
 }
-class2_2 = [student1,
-        student2,
-        student3,
-        student4,
-        student5,
-        student6,
-        student7,
-        student8,
-        student9,
-        student10,
-        ]
+class2_2 = [student1,student2,student3,student4,student5,student6,student7,student8,student9,student10,]
 print("นักเรียนห้อง ปวช.2 ทด2")
 print(class2_2)
 print("เพือนสนิท")
